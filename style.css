@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+body{
+    text-align: justify;
+    background-image: url(imagens/Teresina\ estaiada.jpg);
+    background-size: cover;
+
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#ponte{
+    box-sizing: border-box;
+    width: 900px;
+    background-color: #e8c3afe1;
+    padding: 25px;
+    margin: 20px auto 20px;
+    border-radius: 15px;
+
+}
+
+img{
+    border-radius: 15px;
+    margin: 10px 0 40px 90px;
+}
+
+
+#caracteres > h2 {
+    border-bottom: 1px solid black;
+    margin-bottom: 15px;
+}
+
+
+#constru > h2 {
+    border-bottom: 1px solid black;
+    margin-bottom: 15px;
+}
+
+#mirante > h2 {
+    border-bottom: 1px solid black;
+    margin-bottom: 15px;
+}
+
+#caracteres {
+    padding: 15px 10px 0 10px;
+}
+
+#constru {
+    padding: 15px 10px 0 10px;
+}
+
+#mirante{
+    padding: 15px 10px 0 10px;
+}
+
+footer{
+    text-align: center;
+    margin-bottom: 10px;
+    color: white;
+}
